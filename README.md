@@ -130,14 +130,7 @@ The liveness check verifies:
 - Firestore connectivity
 - Healthy API response
 
-Example response:
 
-```json
-{
-  "status": "ok"
-}'''
-
----
 
 ### Empathy-Based Error Message
 

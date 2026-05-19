@@ -196,5 +196,19 @@ npm run dev
 <img width="428" height="327" alt="9p" src="https://github.com/user-attachments/assets/1ee32310-6bbf-49c7-9c92-209bda32c8d7" />
 <img width="512" height="336" alt="10p" src="https://github.com/user-attachments/assets/7a8b4316-515b-4bcd-8a79-0a2f5d0eca36" />
 
+---
 
+## Deployment Status
+
+The application was prepared for deployment using Vercel / Netlify and Google Cloud Run architecture principles.
+
+Due to authentication constraints during submission, the final hosted deployment was not completed.
+
+However, the project runs successfully in the local development environment using:
+
+```bash
+npm run dev
+```
+
+The application was fully tested locally with Firebase Firestore integration enabled.
 

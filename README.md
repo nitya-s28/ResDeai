@@ -172,25 +172,29 @@ npm run dev
 
 ### Dashboard UI
 
-![Dashboard](./screenshots/dashboard.png)
+<img width="1896" height="865" alt="dashboard png" src="https://github.com/user-attachments/assets/394b11a9-5037-4fbf-823a-78e73e7524c7" />
+
 
 ---
 
 ### Firestore Database Structure
+<img width="1305" height="746" alt="firestore png" src="https://github.com/user-attachments/assets/c0526cd5-ea41-410c-a3b5-93718b360403" />
 
-![Firestore](./screenshots/firestore.png)
 
 ---
 
 ### Project Structure
 
-![Project Structure](./screenshots/1p.png)
-![Project Structure](./screenshots/2p.png)
-![Project Structure](./screenshots/3p.png)
-![Project Structure](./screenshots/4p.png)
-![Project Structure](./screenshots/5p.png)
-![Project Structure](./screenshots/6p.png)
-![Project Structure](./screenshots/7p.png)
-![Project Structure](./screenshots/8p.png)
-![Project Structure](./screenshots/9p.png)
-![Project Structure](./screenshots/10p.png)
+<img width="237" height="906" alt="1p" src="https://github.com/user-attachments/assets/dbb68640-5877-48a0-9af2-d65d651828c4" />
+<img width="703" height="952" alt="2p" src="https://github.com/user-attachments/assets/1519f923-fd13-425a-a61f-1282c04de6ee" />
+<img width="983" height="930" alt="3p" src="https://github.com/user-attachments/assets/2e3d291d-116b-4ee6-9334-eb3a807bb40b" />
+<img width="917" height="658" alt="4p" src="https://github.com/user-attachments/assets/8c013522-b16e-4b6b-8230-61422c9b90fb" />
+<img width="875" height="656" alt="5p" src="https://github.com/user-attachments/assets/14db6938-88bc-4426-9cad-2dbc54df96f4" />
+<img width="897" height="692" alt="6p" src="https://github.com/user-attachments/assets/ae421403-8d9f-47e7-a81b-1fdf4562e8e0" />
+<img width="585" height="490" alt="7p" src="https://github.com/user-attachments/assets/21174e4d-aec3-4cef-a6e4-0111745dccea" />
+<img width="447" height="298" alt="8p" src="https://github.com/user-attachments/assets/be84a8c9-83e5-4b4b-a381-350c99357f95" />
+<img width="428" height="327" alt="9p" src="https://github.com/user-attachments/assets/1ee32310-6bbf-49c7-9c92-209bda32c8d7" />
+<img width="512" height="336" alt="10p" src="https://github.com/user-attachments/assets/7a8b4316-515b-4bcd-8a79-0a2f5d0eca36" />
+
+
+

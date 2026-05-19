@@ -10,7 +10,10 @@ The dashboard allows clinicians to:
 - Track appointment status
 - Access medical reports
 - Search patient records
+- 
+## AI-Assisted Development
 
+This project was intentionally developed using an AI-assisted engineering workflow to simulate agentic software development practices, including rapid scaffolding, debugging, architectural refinement, and iterative production-grade corrections.
 
 
 ## Tech Stack

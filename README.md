@@ -165,3 +165,32 @@ npm run dev
 - Cloud monitoring and analytics
 
   ---
+
+  ---
+
+## Screenshots
+
+### Dashboard UI
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+### Firestore Database Structure
+
+![Firestore](./screenshots/firestore.png)
+
+---
+
+### Project Structure
+
+![Project Structure](./screenshots/1p.png)
+![Project Structure](./screenshots/2p.png)
+![Project Structure](./screenshots/3p.png)
+![Project Structure](./screenshots/4p.png)
+![Project Structure](./screenshots/5p.png)
+![Project Structure](./screenshots/6p.png)
+![Project Structure](./screenshots/7p.png)
+![Project Structure](./screenshots/8p.png)
+![Project Structure](./screenshots/9p.png)
+![Project Structure](./screenshots/10p.png)

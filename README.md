@@ -135,7 +135,7 @@ Example response:
 ```json
 {
   "status": "ok"
-}
+}'''
 
 ---
 

@@ -11,7 +11,7 @@ The dashboard allows clinicians to:
 - Access medical reports
 - Search patient records
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ The dashboard allows clinicians to:
 - Tailwind CSS
 - Firebase Firestore
 
----
+
 
 ## Features
 
@@ -44,7 +44,7 @@ The dashboard allows clinicians to:
 - Role-based access logic for clinical notes
 - Audit logging for patient record access
 
----
+
 
 ## Firestore Schema
 
@@ -53,8 +53,9 @@ Each patient document contains:
 - Personal Information
 - Appointments array
 - Reports array
-
+  
 ---
+
 
 ## Authentication & Authorization
 
@@ -64,7 +65,7 @@ In production, Firebase Authentication and JWT-based role verification would be 
 
 Only users with role `DOCTOR` can access clinical notes.
 
----
+
 
 ## Audit Logging
 
@@ -108,7 +109,7 @@ The database structure uses:
 
 Firestore Security Rules would restrict sensitive healthcare data access to authorized users only.
 
----
+
 
 ## CI/CD Pipeline with Liveness Check
 
@@ -136,7 +137,9 @@ Example response:
   "status": "ok"
 }
 
-## Empathy-Based Error Message
+---
+
+### Empathy-Based Error Message
 
 Instead of:
 
@@ -149,7 +152,7 @@ Use:
 > You can try searching again, or quickly create a new record if needed.  
 > We’re here to help you keep moving smoothly.
 
----
+
 
 ## Running Locally
 
@@ -157,8 +160,8 @@ Use:
 npm install
 npm run dev
 ```
-
 ---
+
 
 ## Future Improvements
 
@@ -167,3 +170,5 @@ npm run dev
 - Appointment scheduling
 - Report uploads
 - Cloud monitoring and analytics
+
+  ---

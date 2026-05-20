@@ -175,7 +175,8 @@ npm run dev
 
 ### Dashboard UI
 
-<img width="1896" height="865" alt="dashboard png" src="https://github.com/user-attachments/assets/394b11a9-5037-4fbf-823a-78e73e7524c7" />
+<img width="1227" height="906" alt="Screenshot 2026-05-20 131751" src="https://github.com/user-attachments/assets/8c4a2925-3aaa-40bb-8dac-e703f72bd5d3" />
+
 
 
 ---
